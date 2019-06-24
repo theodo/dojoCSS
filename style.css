@@ -6,6 +6,7 @@
 .tweet {
   margin-left: auto;
   margin-right: auto;
+  padding: 10px;
   width: 400px;
   background-color: #f4f4f4;
   border: 1px solid #dedede;
