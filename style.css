@@ -1,3 +1,9 @@
-.second-tweet {
+.tweet {
+  width: 400px;
+  background-color: #f4f4f4;
+  border: 1px solid #dedede;
+}
+
+.tweet + .tweet {
   margin-top: 20px;
 }
