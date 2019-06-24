@@ -1,4 +1,11 @@
+.tweets {
+  margin-top: 40px;
+  width: 100%;
+}
+
 .tweet {
+  margin-left: auto;
+  margin-right: auto;
   width: 400px;
   background-color: #f4f4f4;
   border: 1px solid #dedede;
