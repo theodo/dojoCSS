@@ -15,3 +15,9 @@
 .tweet + .tweet {
   margin-top: 20px;
 }
+
+.copyright {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
