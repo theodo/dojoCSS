@@ -1,3 +1,11 @@
+.tweet {
+  width: 400px;
+  background-color: #fafafa;
+  border: 1px solid #dedede;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
 .second-tweet {
   margin-top: 20px;
 }
