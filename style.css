@@ -3,15 +3,18 @@ body {
   line-height: 1.3;
 }
 
+.feed {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .title {
   text-align: center;
 }
 
 .tweet-list {
   width: 400px;
-  margin-top: 40px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .tweet-list > .tweet:not(:first-child) {
